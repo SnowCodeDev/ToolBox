@@ -51,8 +51,8 @@ code :
 
 ## 👥 贡献者
 
-项目创建者：SnowCodeDev
-优化：DeepSeek
+- 项目创建者：SnowCodeDev
+- 优化：DeepSeek(AI)
 
 ## 🤝 致谢
 - 如果你喜欢这个项目，请点个star，为此项目支持。
