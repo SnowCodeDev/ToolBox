@@ -47,7 +47,7 @@ code :
 >你可以先编写Python代码，然后再将代码复制到config.txt中
 
 ## 📜 许可证
-- 本项目（ToolBox）使用GNU3.0许可证
+- 本项目(ToolBox)使用**GNU General Public License v3.0**许可证
 
 ## 👥 贡献者
 
