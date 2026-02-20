@@ -59,5 +59,7 @@ code :
 - 欢迎提出PR或issue
 - 如果你认为此说明文件存在错误，请提交issue或PR
 
-最后编辑时间：2026/2/20
-编辑人：SnowCodeDev
+## 🎓 结尾
+- 最后编辑时间：2026/2/20
+- 编辑人：SnowCodeDev
+- **by 5th grade student**
