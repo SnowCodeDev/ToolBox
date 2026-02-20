@@ -1,7 +1,7 @@
 # 🛠️ SnowToolBox使用教程
 ## 🚀 快速开始
 ### 📋 环境要求
-- Python 3.6+
+- Python 3.0+
 - 无需安装额外依赖（只用标准库）
 - Windows/Linux/MacOS操作系统
 ### 📁 文件结构
